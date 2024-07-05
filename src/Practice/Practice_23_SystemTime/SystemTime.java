@@ -1,0 +1,10 @@
+package Practice.Practice_23_SystemTime;
+
+import java.util.Date;
+
+public class SystemTime {
+    public static void main(String[] args) {
+        Date now = new Date();
+        System.out.print("Thời gian bây giờ là: " + now);
+    }
+}
